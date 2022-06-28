@@ -1,4 +1,4 @@
-//Write a c program to find the reverse of the digits of a given number using pointers only
+//Write a C program to find the reverse of the digits of a given number using pointers only
 
 #include <stdio.h>
 int main()
