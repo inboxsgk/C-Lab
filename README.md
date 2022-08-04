@@ -1,9 +1,10 @@
 <p align="center">
  <h1 align="center">C Lab</h1>
+ <p align="center"><i>This repository contains all the C programs done during lab classes.</i></p>
 </p>
 <br>
 
-<i>Topics:</i>
+<h3>Topics:</h3>
 <ol>
 <li>
 <a href="#ARRAYS">Arrays</a>
